@@ -5,9 +5,10 @@
 
 
 ## 💡 About Me
+* 🧉 Mate enjoyer
 * 🧠 I enjoy learning new things and exploring new technologies
 * 📚 Second year at FIUBA
-* 💻 Semi Senior IT support
+* 💻 IT support
 * ⚙ Currently working on my [personal portfolio](https://github.com/IglesiasT/portfolio)
 
 
