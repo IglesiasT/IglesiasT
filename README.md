@@ -5,7 +5,7 @@
 
 
 ## 💡 About Me
-* 🧉 Mate enjoyer
+* 🧉 Mate lover
 * 🧠 I enjoy learning new things and exploring new technologies
 * 📚 Second year at FIUBA
 * 💻 IT support
