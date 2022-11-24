@@ -1,5 +1,5 @@
 
-# Hello world! I'm Tomas
+# Hello world! I'm Tomás
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732A70&vCenter=true&lines=Argentinian+software+developer.;Computer+engineering+student.;Universidad+de+Buenos+Aires.)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 * 🧠 I enjoy learning new things and exploring new technologies
 * 📚 Second year at FIUBA
 * 💻 IT support
-* ⚙ Currently working on my [personal portfolio](https://github.com/IglesiasT/portfolio)
+* ⚙ Currently working on our game [AlgoStar](https://github.com/IglesiasT/AlgoStar)
 
 
 
