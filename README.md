@@ -1,15 +1,15 @@
 
 # Hello world! I'm Tomás
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732A70&vCenter=true&lines=Argentinian+software+developer.;Computer+engineering+student.;Universidad+de+Buenos+Aires.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732A70&vCenter=true&lines=Argentinian+software+developer.;Computer+Science+student.;Universidad+de+Buenos+Aires.)](https://git.io/typing-svg)
 
 
 ## 💡 About Me
-* 🧉 Mate lover
-* 🧠 I enjoy learning new things and exploring new technologies
-* 📚 Second year at FIUBA
+* 📚 FIUBA student since 2018
+* 🧠 Constantly learning new things and exploring new technologies
+* 🧉 I drink mate everyday
 * 💻 IT support
-* ⚙ Currently working on our game [AlgoStar](https://github.com/IglesiasT/AlgoStar)
+* ⚙ Currently working on a Java desktop app
 
 
 
