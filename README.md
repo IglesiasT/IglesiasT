@@ -9,7 +9,7 @@
 * 🧠 Constantly learning new things and exploring new technologies
 * 🧉 I drink mate everyday
 * 💻 IT support
-* ⚙ You can check my just finished [website](https://iglesiast.github.io/)!
+* ⚙ You can check my personal [website](https://iglesiast.github.io/)!
 
 
 
