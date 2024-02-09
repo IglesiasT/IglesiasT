@@ -5,10 +5,10 @@
 
 
 ## 💡 About Me
+* 💻 Backend developer
 * 📚 FIUBA student since 2018
 * 🧠 Constantly learning new things and exploring new technologies
 * 🧉 I drink mate everyday
-* 💻 IT support
 * ⚙ You can check my personal [website](https://iglesiast.github.io/)!
 
 
