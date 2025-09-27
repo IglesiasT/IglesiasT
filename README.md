@@ -9,7 +9,7 @@
 * 📚 FIUBA student since 2018
 * 🧠 Constantly learning new things and exploring new technologies
 * 🧉 I drink mate everyday
-* ⚙ You can check my personal [website](https://iglesiast.github.io/)!
+* ⚙ You can check my personal [website](https://iglesiastomas.notion.site/Portfolio-6d31ff0d625f433082ca8fdb327261d9)!
 
 
 
